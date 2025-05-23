@@ -168,3 +168,5 @@ const HomePage = async ({ searchParams }) => {
 };
 
 export default HomePage;
+
+//home page
