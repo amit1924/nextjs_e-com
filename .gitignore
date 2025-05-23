@@ -1,0 +1,51 @@
+# === Node Modules ===
+node_modules/
+
+# === Build Output ===
+.next/
+out/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Env Variables ===
+.env
+.env.local
+.env.*.local
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Tailwind JIT Cache ===
+.tailwind/
+
+# === Editor/IDE Folders ===
+.vscode/
+.idea/
+
+# === OS ===
+*.swp
+*.swo
+
+# === Coverage Reports ===
+coverage/
+
+# === Optional Next.js Files ===
+.next/cache/
+public/static/
+
+# === Misc ===
+*.log
+*.tgz
+*.lock-wscript
+*.tsbuildinfo
+
+# === Linux / Mac ===
+*.out
+
+# === Windows ===
+ehthumbs.db
